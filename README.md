@@ -8,7 +8,7 @@ A Ruby library which implements ID3 (information gain) algorithm for decision tr
 ## Features
 - ID3 algorithms for continuous and discrete cases, with support for incosistent datasets.
 - Graphviz component to visualize the learned tree (http://rockit.sourceforge.net/subprojects/graphr/)
-- Support for multiple, and symbolic outputs and graphing of continuos trees.
+- Support for multiple, and symbolic outputs and graphing of continuous trees.
 - Returns default value when no branches are suitable for input
 
 ## Implementation
